@@ -1,4 +1,7 @@
-﻿{
+{
+  "title": "BizEssential Core",
+  "copyright": "Nithyanand K N",
+  "description": "Core library with a set of model and function to build essential business applications.",
   "version": "1.0.0-*",
 
   "dependencies": {

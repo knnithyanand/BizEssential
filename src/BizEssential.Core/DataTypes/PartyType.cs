@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BizEssential.Core
+namespace BizEssential.Core.DataTypes
 {
-    public class Class1
+    public enum PartyType
     {
-        public Class1()
-        {
-        }
+		Individual,
+		Organization,
+		Group
     }
 }
